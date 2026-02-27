@@ -303,6 +303,6 @@ Advanced NLP-based pattern detection
 
 Vaishnav – Backend Development & AI Integration
 
-[Teammate Name] – Frontend & Dashboard Development
+[P.Sai theja reddy] – Frontend & Dashboard Development
 
-[Teammate Name] – Architecture & Risk Modeling
+[Avaneesh and Raghava] – Architecture & Risk Modeling
